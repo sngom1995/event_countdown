@@ -1,0 +1,16 @@
+{
+  "source": "/Users/badou/Documents/developpement/ios_udacity/Count Down/Count Down/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 22
+        }
+      }
+    ]
+  },
+  "version": 1
+}

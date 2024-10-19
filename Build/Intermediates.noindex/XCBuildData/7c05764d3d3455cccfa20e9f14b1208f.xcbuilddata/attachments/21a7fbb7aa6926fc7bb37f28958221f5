@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count Down-master.dia",
+    "emit-module-dependencies" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count Down-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count Down-master-emit-module.dia",
+    "swift-dependencies" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count Down-master.swiftdeps"
+  },
+  "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/badou/Documents/developpement/ios_udacity/Count Down/Count Down/ContentView.swift" : {
+    "const-values" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/badou/Documents/developpement/ios_udacity/Count Down/Count Down/Count_DownApp.swift" : {
+    "const-values" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count_DownApp.swiftconstvalues",
+    "dependencies" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count_DownApp.d",
+    "diagnostics" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count_DownApp.dia",
+    "index-unit-output-path" : "/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count_DownApp.o",
+    "llvm-bc" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count_DownApp.bc",
+    "object" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count_DownApp.o",
+    "swift-dependencies" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count_DownApp.swiftdeps",
+    "swiftmodule" : "/Users/badou/Documents/developpement/ios_udacity/Count Down/Build/Intermediates.noindex/Count Down.build/Debug-iphonesimulator/Count Down.build/Objects-normal/arm64/Count_DownApp~partial.swiftmodule"
+  }
+}
